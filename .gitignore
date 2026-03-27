@@ -1,0 +1,8 @@
+*.bam
+*.cram
+*.vcf*
+*.gvcf*
+ATM*
+patient_data/
+results/
+output/
